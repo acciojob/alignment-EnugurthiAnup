@@ -7,6 +7,9 @@ table{
 	height:100px;
 	
 }
+td{
+	padding:1px
+}
 #t11{
 	text-align:left
 }
